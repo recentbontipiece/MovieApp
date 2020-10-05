@@ -13,5 +13,8 @@ Time spent: 2 hours spent in total
 
 ->User can rotate the app to see a large poster 
 
+->User can click on a movie to see a trailed depend on the rating.
+
+
 # Video Walkthrough
-link :https://www.dropbox.com/s/fwj509aum7k1q4p/first_ass.mp4
+link :https://www.dropbox.com/s/unarzzykan3k5x8/lab_2.mp4
